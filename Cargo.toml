@@ -1,0 +1,12 @@
+[package]
+name = "agent-epoch-counter"
+version = "0.1.0"
+edition = "2021"
+description = "Named counters that reset on epoch boundaries for per-session rate tracking"
+license = "MIT"
+repository = "https://github.com/MukundaKatta/agent-epoch-counter-rs"
+keywords = ["llm", "agent", "counter", "epoch", "rate"]
+categories = ["data-structures"]
+exclude = ["target/*", ".github/*", "*.log"]
+
+[dependencies]
