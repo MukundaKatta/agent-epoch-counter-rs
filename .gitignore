@@ -1,0 +1,9 @@
+# Compiled output
+/target
+
+# Backup files
+**/*.rs.bk
+
+# Editor / OS noise
+*.log
+.DS_Store
